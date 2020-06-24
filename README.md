@@ -1,5 +1,5 @@
 # Retro-Pong
-A simple Retro style Pong game created using Pygame.
+A simple 1 player Retro style Pong game created using Pygame.
 
 ## Contributing
 Pull requests are welcome.
